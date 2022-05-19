@@ -1,0 +1,1 @@
+C:\Users\renan\Sites\ViaCepUWP\ViaCepUWP.csproj;x64
